@@ -1,2 +1,3 @@
 # TicTacToe
-My second mini game development
+Name: Saw Luke Loo Wah
+Description: TicTacToe Mini Game
